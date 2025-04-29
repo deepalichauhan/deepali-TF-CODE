@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mrm-vault-preprod-elasticsearch
+type: Opaque
+data:
+  elasticsearch-password: VXQxZFB4c01yYzFzcjFv
